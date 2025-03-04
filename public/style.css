@@ -1,16 +1,92 @@
-.subtitulo_nome {
-    color: gray;
-    font-weight: 300;
-}
-
-.infos_pessoais {
-    font-size: 120%;
-    font-style: italic;
-}
-body{
+header {
     background-color: cyan;
     
 }
-header{
-    background-color: greenyellow;
+
+
+
+.nome-principal {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 150;
+    font-size: 75px;
+}
+
+.vendedor {
+    font-size: 35px;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: 500;
+    margin-top: -75px;
+}
+
+.endereço {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: 500;
+    margin-top: 75px;
+    font-size: 35px;
+    color: gray;
+}
+
+.email {
+    position: relative;
+    top: -15px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: gray;
+    font-size: 35px;
+
+}
+
+.num-data {
+    position: relative;
+    top: -50px;
+    font-family: sans-serif;
+    font-style: oblique;
+    color: gray;
+    font-size: 25px;
+}
+
+.foto-perfil {
+    width: 220px;
+    height: auto;
+    position: relative;
+    left: 1250px;
+    top: -380px;
+}
+.menu-direita{
+    position: relative;
+    top: -55px;
+    left: 1650px;
+    font-size: 28px;
+}
+.cargos{
+    font-family: serif;
+    font-size: 25px;
+    font-style: italic;
+    color: gray;
+}
+.Experiencias{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+}
+.educação{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    color: black;
+}
+.idiomas{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    color: black;
+}
+.conteudo-idiomas{
+    font-family: serif;
+    font-size: 25px;
+    font-style: italic;
+    color: gray;
 }
