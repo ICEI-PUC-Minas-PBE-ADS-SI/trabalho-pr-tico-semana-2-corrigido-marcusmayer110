@@ -1,0 +1,16 @@
+.subtitulo_nome {
+    color: gray;
+    font-weight: 300;
+}
+
+.infos_pessoais {
+    font-size: 120%;
+    font-style: italic;
+}
+body{
+    background-color: cyan;
+    
+}
+header{
+    background-color: greenyellow;
+}
